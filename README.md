@@ -10,7 +10,7 @@ Time spent: **12** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
+- [x] **User can add an item to their wishlist**
 - [ ] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
