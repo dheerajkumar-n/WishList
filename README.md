@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='project2.gif' title= 'video walkthroug' width='' alt= 'video walkthrough' />
+<img src='project2.gif' title='video walkthrough' width='' alt='video walkthrough' />
 
 
 GIF created with LiceCap
